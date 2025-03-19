@@ -1,4 +1,5 @@
-# Telegram Bot with Go
+# KingBot 👑 
+## One Bot To Rule Them All
 
 This repository contains a Telegram bot built with Go that interacts with an AI engine to generate Twitter posts. The bot allows users to invoke it with a command, generate a post using an AI engine, and post it to Twitter upon user confirmation.
 
