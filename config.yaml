@@ -1,0 +1,7 @@
+tgToken: ""
+llm: "ollama"
+model: "llama3:latest"
+llmToken: ""
+preamble: "Rewrite the following content into a concise, engaging Twitter post. Keep it within 280 characters, maintain the original intent and emotion, and make it attention-grabbing. Use a clear, conversational tone, and include relevant emojis if appropriate and exclude hashtags. Use simple indian english\n\nUser content: "
+xAPIKey: ""
+xAPISecret: ""
